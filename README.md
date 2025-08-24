@@ -6,7 +6,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - ✍️ &nbsp; I'm 21 Years.
+  - ✍️ &nbsp; I'm 22 Years.
   - 🎓 &nbsp; Studying faculty of law.
   - 💼 &nbsp; I’m currently working on Frontend Development projects.
   - 🌱 &nbsp; Learning more about Frontend Developement.
