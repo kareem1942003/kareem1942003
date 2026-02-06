@@ -156,22 +156,17 @@
 <br/><br/>
 
 <!-- SOCIAL ICON ROW FAST -->
-<a href="mailto:pankajgour5000@gmail.com">
+<a href="mailto:karem1941999@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/pankajgour404">
+<a href="https://www.linkedin.com/in/kareem-mahmoud-644078228/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://x.com/Pankajgour404">
-  <img src="https://skillicons.dev/icons?i=twitter" height="40"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/pankaj_vimla_gour">
+<a href="https://www.instagram.com/kareem.mahhmoud/">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 <br/>
