@@ -3,10 +3,10 @@
 <!-- ================= HERO FUTURE ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f172a,30:1e293b,60:10b981,85:8b5cf6,100:0f172a&text=Hello,%20I'm%20PANKAJ%20GOUR&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f172a,30:1e293b,60:10b981,85:8b5cf6,100:0f172a&text=Hello,%20I'm%20Kareem%20Mahmoud&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <br/>
- <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=30&duration=2400&pause=650&color=34D399&center=true&vCenter=true&width=1000&lines=Building+Scalable+Digital+Experiences;Full+Stack+%7C+MERN+%7C+AI;Designing+Clean+UI+Architectures;Clean+Code+%26+Smart+Design" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=30&duration=2400&pause=650&color=34D399&center=true&vCenter=true&width=1000&lines=Building+Scalable+Digital+Experiences;Frontend+Developer+%7C+React.js+%7C+AI;Designing+Clean+UI+Architectures;Clean+Code+%26+Smart+Design" />
 
 <br/>
 
@@ -95,13 +95,13 @@
 
 | Category | Technologies |
 |----------|-------------|
-| **🚀 Runtime & Frameworks** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) |
-| **🗄️ Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **🚀 Runtime & Frameworks** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+| **🗄️ Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 | **🔌 APIs** | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) |
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,redis,graphql,prisma&perline=4&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,prisma&perline=4&theme=dark" />
 
 </div>
 
@@ -138,54 +138,6 @@
 
 <!-- DEVOPS SECTION -->
 <details>
-<summary><h3>☁️ Cloud & DevOps - Infrastructure </h3></summary>
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
-
-<br/><br/>
-
-| Category | Technologies |
-|----------|-------------|
-| **☁️ Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
-| **🐳 Containers** | ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
-| **🛠️ Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,vercel,netlify,git,github,postman,vscode,figma&perline=6&theme=dark" />
-
-</div>
-
-</details>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-<br/>
-</div>
-
-
-###  ACTIVITY
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pankajgour12&theme=dark&background=0f172a&ring=10b981&fire=8b5cf6&currstreak=10b981&sideLabels=8b5cf6&dates=ffffff&sideNums=10b981&stroke=10b981&hide_border=true" width="75%" />
-
-<p align="end">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=0:FF8C00,50:FFB347,80:22F0FF,100:000000" width="100%"/>
-</p>
-</div>
-
-<br/>
-
-
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
 
 <!-- ================= LETS CONNECT CLEAN FAST ================= -->
 
