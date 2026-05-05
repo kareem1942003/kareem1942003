@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0f172a,30:1e293b,60:10b981,85:8b5cf6,100:0f172a&text=Hello,%20I'm%20Kareem%20Mahmoud&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=40" width="100%"/>
 
 <br/>
- <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=30&duration=2400&pause=650&color=34D399&center=true&vCenter=true&width=1000&lines=Building+Scalable+Digital+Experiences;Frontend+Developer+%7C+React.js+%7C+AI;Designing+Clean+UI+Architectures;Clean+Code+%26+Smart+Design" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=900&size=30&duration=2400&pause=650&color=34D399&center=true&vCenter=true&width=1000&lines=Building+Scalable+Digital+Experiences;Frontend+Developer+%7C+React.js+%7C+Angular;Designing+Clean+UI+Architectures;Clean+Code+%26+Smart+Design" />
 
 <br/>
 
